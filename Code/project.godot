@@ -16,7 +16,7 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 
 config/name="Hello Godot"
 run/main_scene="uid://bb8oe5tay2j3w"
-config/features=PackedStringArray("4.6")
+config/features=PackedStringArray("4.7")
 config/icon="res://Main/icon.png"
 
 [display]
